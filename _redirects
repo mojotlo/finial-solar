@@ -1,4 +1,3 @@
-# Preserve the original Squarespace clean URLs -> new .html pages
-/our-team      /our-team.html      200
-/contact-us    /contact-us.html    200
-/cart          /contact-us.html    301
+# Cloudflare Pages serves our-team.html at the clean URL /our-team automatically,
+# so no rules are needed for those. We only redirect the retired /cart page.
+/cart    /contact-us    301

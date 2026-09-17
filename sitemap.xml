@@ -5,11 +5,11 @@
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://www.finialsolar.com/our-team.html</loc>
+    <loc>https://www.finialsolar.com/our-team</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.finialsolar.com/contact-us.html</loc>
+    <loc>https://www.finialsolar.com/contact-us</loc>
     <priority>0.8</priority>
   </url>
 </urlset>
